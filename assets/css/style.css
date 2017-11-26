@@ -15,6 +15,12 @@
 
 }
 
+h2 {
+	color: #4aaaa5;;
+	border-style: solid;
+	border-color: black;
+}
+
 #foot {
 
 	color: white;
@@ -22,19 +28,21 @@
 	padding: 20px;
 	
 	text-align: center;
+	text-decoration: overline;
 
 }
 
 #main  {
 
-	background: green;
+	background: #ffffff;
 	width: 260px;
 	margin-left: 40px;
 	padding: 20px;
 	float:right;
-	margin-top: -400px;
+	margin-top: -300px;
 	border-style: solid;
 	border-color: gray;
+	margin-right: 156px;
 
 
 	
@@ -50,8 +58,14 @@ body {
 
 }
 
-#aboutme { background:red;
+#aboutme { background:#ffffff;
 	width: 960px;
+	height: auto;
+	border-style: solid;
+	border-color: black;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
 
 
 
@@ -59,8 +73,9 @@ body {
 
 	 p {
 
-	 	width: 650px;
-	 	float: right;
+	 	width: 450px;
+	 	text-align: right;
+
 
 	 }
 
