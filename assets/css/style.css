@@ -60,6 +60,7 @@ display: grid;
 grid-template-rows:repeat(2, 1fr);
 grid-gap: 1em;
 color:  #4aaaa5;
+font-size: 1em;
 
 
 
