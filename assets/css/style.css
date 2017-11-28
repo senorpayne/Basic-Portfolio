@@ -57,9 +57,9 @@ h2 {
 
 #connect {
 display: grid;
-grid-template-columns:repeat(2, 1fr);
+grid-template-rows:repeat(2, 1fr);
 grid-gap: 1em;
-color: #4aaaa5;
+color:  #4aaaa5;
 
 
 
