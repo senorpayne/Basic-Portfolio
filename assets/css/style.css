@@ -52,10 +52,15 @@ h2 {
 	border-color: gray;
 	margin-right: 20px;
 	border-width: 1px;
+		
+}
+
+#connect {
+display: grid;
+grid-template-columns:repeat(2, 1fr);
+grid-gap: 1em;
 
 
-	
-	
 
 
 
@@ -91,7 +96,7 @@ body {
 
 	 	width: 450px;
 	 	text-align: center;
-	 	
+
 
 
 	 }
